@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+div {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: verdana;
+}
+
+h1 {
+    font-weight: normal;
+    margin-bottom: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ebdddd;
+}
+
+h2 {
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+p {
+    font-weight: normal;
+    margin-bottom: 25px;
+    line-height: 28px;
+}
+
+img {
+    width: 400px;
+}
+
+.trabalho {
+    width: 200px;
+}
+
+.rede-social {
+    width: 40px;
+    border-radius: 20px;
+    margin: 0 5px;
+    border: 1px solid rgb(222, 23, 116);
+}
+
+span {
+    font-weight: bold;
+    color: rgb(222, 23, 116);
+}
+
+.text-vermelho {
+    color: rgb(156, 93, 116);
+}
+
+.rede {
+    margin-bottom: 30px;
+}
